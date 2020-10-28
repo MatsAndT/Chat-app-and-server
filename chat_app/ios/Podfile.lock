@@ -1,0 +1,35 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - Flutter (1.0.0)
+  - flutter_socket_io (0.0.1):
+    - Flutter
+  - flutter_socket_plugin (1.0.1):
+    - CocoaAsyncSocket
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_socket_io (from `.symlinks/plugins/flutter_socket_io/ios`)
+  - flutter_socket_plugin (from `.symlinks/plugins/flutter_socket_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_socket_io:
+    :path: ".symlinks/plugins/flutter_socket_io/ios"
+  flutter_socket_plugin:
+    :path: ".symlinks/plugins/flutter_socket_plugin/ios"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_socket_io: fce27977d95a82c181bd959180f33384f51a5973
+  flutter_socket_plugin: 62af2593ea11e97a484573c25bb7c05ba52aa042
+
+PODFILE CHECKSUM: 8f65741c23eff18a8cbc23f94d5222e2be394a9c
+
+COCOAPODS: 1.8.4
